@@ -5,10 +5,24 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's hello-world starter
+  Gatsby's hello-world++ starter
 </h1>
 
 Kick off your project with this hello-world boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+
+This updated hello-world starter includes plugins that I use continually, with some modifications to have jest testing enabled out of the box.
+
+This starter includes:
+
+- Gatsby React Helmet
+- Gatsby Plugin Sitemap
+- Gatsby Source Filesystem
+- Gatsby Prefetch Google Fonts
+- Gatsby Transformer sharp
+- Gatsby SaSS
+- Gatsby Styled Components
+
+As well as the modifications for Jest testing outlined in [Gatsby Unit Testing](https://www.gatsbyjs.org/docs/unit-testing/).
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
